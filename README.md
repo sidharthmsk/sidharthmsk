@@ -32,27 +32,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sidharthmsk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidharthmsk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthmsk&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidharthmsk&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📊 Activity Graph
 
 <p align="center">
@@ -69,16 +48,6 @@
 > - Database design patterns with PostgreSQL
 > - Explorations into new tech I'm learning
 > - Side projects & experiments
-
----
-
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://github.com/sidharthmsk">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ---
 
